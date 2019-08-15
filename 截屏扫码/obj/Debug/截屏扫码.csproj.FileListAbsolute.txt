@@ -1,0 +1,16 @@
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\截屏扫码.exe.config
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\截屏扫码.exe
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\截屏扫码.pdb
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\obj\Debug\截屏扫码.csprojResolveAssemblyReference.cache
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\obj\Debug\截屏扫码.Form1.resources
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\obj\Debug\截屏扫码.Properties.Resources.resources
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\obj\Debug\截屏扫码.csproj.GenerateResource.Cache
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\obj\Debug\截屏扫码.exe
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\obj\Debug\截屏扫码.pdb
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\zxing.dll
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\zxing.presentation.dll
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\zxing.pdb
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\zxing.xml
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\zxing.presentation.pdb
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\zxing.presentation.xml
+d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\obj\Debug\截屏扫码.BarcodeResultForm.resources
