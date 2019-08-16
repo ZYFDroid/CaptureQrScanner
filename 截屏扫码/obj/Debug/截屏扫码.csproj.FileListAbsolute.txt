@@ -14,3 +14,19 @@ d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏�
 d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\zxing.presentation.pdb
 d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\bin\Debug\zxing.presentation.xml
 d:\用户文件\我的文档\visual studio 2015\Projects\ScreenQrScanner\截屏扫码\obj\Debug\截屏扫码.BarcodeResultForm.resources
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\bin\Debug\截屏扫码.exe.config
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\obj\Debug\截屏扫码.exe
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\obj\Debug\截屏扫码.pdb
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\bin\Debug\截屏扫码.exe
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\bin\Debug\截屏扫码.pdb
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\bin\Debug\zxing.dll
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\bin\Debug\zxing.presentation.dll
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\bin\Debug\zxing.pdb
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\bin\Debug\zxing.xml
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\bin\Debug\zxing.presentation.pdb
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\bin\Debug\zxing.presentation.xml
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\obj\Debug\截屏扫码.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\obj\Debug\截屏扫码.BarcodeResultForm.resources
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\obj\Debug\截屏扫码.Form1.resources
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\obj\Debug\截屏扫码.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CaptureQrScanner\截屏扫码\obj\Debug\截屏扫码.csproj.GenerateResource.Cache
